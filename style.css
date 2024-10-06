@@ -1,0 +1,19 @@
+body{
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: fixed;
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.cars{
+    padding-top: 30px;
+    margin-top: 30px;
+}
+
+.car{
+    padding-top: 495px;
+}
